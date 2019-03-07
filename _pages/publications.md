@@ -13,7 +13,7 @@ To appear on <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (
 Han Liu, Xiangnan He, Fuli Feng, Liqiang Nie, <b>Rui Liu</b>, Hanwang Zhang. <br>
 <i>The 27th International Joint Conference on Artificial Intelligence</i> (<b>IJCAI 2018</b>).
 
-<b>[Discrete content-aware matrix factorization](https://dl.acm.org/citation.cfm?id=3098008)</b> <br>
+<b>[Discrete content-aware matrix factorization](https://dl.acm.org/citation.cfm?id=3098008)</b> [[poster]](http://ruiliu-ai.github.io/files/DCMF_Poster.pdf) <br>
 Defu Lian, <b>Rui Liu</b>, Yong Ge, Kai Zheng, Xing Xie, Longbing Cao. <br>
 <i>Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i> (<b>SIGKDD 2017</b>, <b>Oral</b>).
 
