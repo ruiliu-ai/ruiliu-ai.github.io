@@ -7,6 +7,6 @@ author_profile: true
 #  - /resume
 ---
 
-#{% include base_path %}
+{% include base_path %}
 
 [View My Up-to-date Curriculum Vitae [PDF]](http://ruiliu-ai.github.io/files/cv_rui.pdf)
