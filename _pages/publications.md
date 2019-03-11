@@ -7,7 +7,7 @@ author_profile: true
 
 <b>Conditional Adversarial Generative Flow for Controllable Image Synthesis</b> <br>
 <b>Rui Liu</b>, Yu Liu, Xinyu Gong, Xiaogang Wang, Hongsheng Li. <br>
-To appear on <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2019</b>).
+<i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2019</b>).
 
 <b>[Discrete factorization machines for fast feature-based recommendation](https://arxiv.org/abs/1805.02232)</b> <br>
 Han Liu, Xiangnan He, Fuli Feng, Liqiang Nie, <b>Rui Liu</b>, Hanwang Zhang. <br>
