@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rui Liu"
-  avatar           : "liurui_img.jpg"
+  avatar           : "https://ruiliu-ai.github.io/files/liurui_img.jpg"
   bio              : "Machine Learning and Computer Vision researcher"
   location         : "Hong Kong"
   employer         :
