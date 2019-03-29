@@ -273,7 +273,7 @@ whitelist:
   - jemoji
 
 # Google Analytics
-google_analytics: UA-137250196-1
+# google_analytics: UA-137250196-1
 
 # Archives
 #  Type
