@@ -6,8 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
 ---
 
 <p align="center">
@@ -22,6 +20,3 @@ News
 ======
 * [Feb., 2019] One paper accepted to CVPR 2019.
 
-<span id="busuanzi_container_site_pv">
-    Total pageviews: <span id="busuanzi_value_site_pv"></span>
-</span>
