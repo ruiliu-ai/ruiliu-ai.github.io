@@ -6,8 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
 ---
 
 <p align="center">
@@ -22,6 +20,3 @@ News
 ======
 * [Feb., 2019] One paper accepted to CVPR 2019.
 
-<span id="https://ruiliu-ai.github.io/">
-    Total pageviews: <span id="https://ruiliu-ai.github.io/"></span>
-</span>
