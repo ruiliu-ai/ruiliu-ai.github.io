@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Conditional Adversarial Generative Flow for Controllable Image Synthesis</b> <br>
+<b>[Conditional Adversarial Generative Flow for Controllable Image Synthesis](https://arxiv.org/abs/1904.01782)</b> <br>
 <b>Rui Liu</b>, Yu Liu, Xinyu Gong, Xiaogang Wang, Hongsheng Li. <br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2019</b>).
 
