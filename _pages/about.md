@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-   <img src="https://ruiliu-ai.github.io/files/liurui_img.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+   <img src="liurui_img.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
 * I am currently persuing a PhD in [Multimedia Lab](http://mmlab.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, supervised by Prof. [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and Prof. [Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/). 
