@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching]</b> <br>
+<b>Rui Liu</b>, Chengxi Yang, Wenxiu Sun, Xiaogang Wang, Hongsheng Li. <br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2020</b>).
+
 <b>[Conditional Adversarial Generative Flow for Controllable Image Synthesis](https://arxiv.org/abs/1904.01782)</b> <br>
 <b>Rui Liu</b>, Yu Liu, Xinyu Gong, Xiaogang Wang, Hongsheng Li. <br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2019</b>).
