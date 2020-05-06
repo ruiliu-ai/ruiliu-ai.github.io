@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching]</b> <br>
+<b>[StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching](https://arxiv.org/abs/2005.01927)</b> <br>
 <b>Rui Liu</b>, Chengxi Yang, Wenxiu Sun, Xiaogang Wang, Hongsheng Li. <br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2020</b>).
 
