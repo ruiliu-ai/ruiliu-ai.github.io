@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching](https://arxiv.org/abs/2005.01927)</b> <br>
+<b>[StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching](https://arxiv.org/abs/2005.01927)</b> [[code](https://github.com/ruiliu-ai/StereoGAN)] <br>
 <b>Rui Liu</b>, Chengxi Yang, Wenxiu Sun, Xiaogang Wang, Hongsheng Li. <br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2020</b>).
 
@@ -17,7 +17,7 @@ author_profile: true
 Han Liu, Xiangnan He, Fuli Feng, Liqiang Nie, <b>Rui Liu</b>, Hanwang Zhang. <br>
 <i>The 27th International Joint Conference on Artificial Intelligence</i> (<b>IJCAI 2018</b>).
 
-<b>[Discrete content-aware matrix factorization](https://dl.acm.org/citation.cfm?id=3098008)</b> [[poster]](http://ruiliu-ai.github.io/files/DCMF_Poster.pdf) <br>
+<b>[Discrete content-aware matrix factorization](https://dl.acm.org/citation.cfm?id=3098008)</b> [[poster](http://ruiliu-ai.github.io/files/DCMF_Poster.pdf)] <br>
 Defu Lian, <b>Rui Liu</b>, Yong Ge, Kai Zheng, Xing Xie, Longbing Cao. <br>
 <i>Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i> (<b>SIGKDD 2017</b>, <b>Oral</b>).
 
