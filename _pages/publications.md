@@ -17,7 +17,7 @@ author_profile: true
 <b>Rui Liu</b>, Yu Liu, Xinyu Gong, Xiaogang Wang, Hongsheng Li. <br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2019</b>).
 
-<b>[HiABP: Hierarchical Initialized ABP for Unsupervised Representation Learning]</b> <br>
+<b>HiABP: Hierarchical Initialized ABP for Unsupervised Representation Learning</b> <br>
 Jiankai Sun, <b>Rui Liu</b>, Bolei Zhou. <br>
 <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2021</b>).
 

@@ -19,5 +19,5 @@ redirect_from:
 News
 ======
 * [Mar., 2021] One paper accepted by CVPR 2021.
-* [Feo., 2020] One paper accepted by CVPR 2020.
-* [Feo., 2019] One paper accepted by CVPR 2019.
+* [Feb., 2020] One paper accepted by CVPR 2020.
+* [Feb., 2019] One paper accepted by CVPR 2019.
