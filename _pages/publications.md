@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)</b> [[code](https://github.com/ruiliu-ai/DivCo)] <br>
+<b>Rui Liu</b>, Yixiao Ge, Ching Lam Choi, Xiaogang Wang, Hongsheng Li. <br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2021</b>).
+
 <b>[StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching](https://arxiv.org/abs/2005.01927)</b> [[code](https://github.com/ruiliu-ai/StereoGAN)] <br>
 <b>Rui Liu</b>, Chengxi Yang, Wenxiu Sun, Xiaogang Wang, Hongsheng Li. <br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2020</b>).
@@ -12,6 +16,10 @@ author_profile: true
 <b>[Conditional Adversarial Generative Flow for Controllable Image Synthesis](https://arxiv.org/abs/1904.01782)</b> <br>
 <b>Rui Liu</b>, Yu Liu, Xinyu Gong, Xiaogang Wang, Hongsheng Li. <br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2019</b>).
+
+<b>[HiABP: Hierarchical Initialized ABP for Unsupervised Representation Learning]</b> <br>
+Jiankai Sun, <b>Rui Liu</b>, Bolei Zhou. <br>
+<i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2021</b>).
 
 <b>[Discrete factorization machines for fast feature-based recommendation](https://arxiv.org/abs/1805.02232)</b> <br>
 Han Liu, Xiangnan He, Fuli Feng, Liqiang Nie, <b>Rui Liu</b>, Hanwang Zhang. <br>
