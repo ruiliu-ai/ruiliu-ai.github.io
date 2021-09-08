@@ -14,7 +14,7 @@ redirect_from:
 
 * I am currently pursuing a PhD in [Multimedia Lab](http://mmlab.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, supervised by Prof. [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and Prof. [Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/). 
 * I got my bachelor degree in Computer Science at University of Electronic Science and Technology of China in 2018. 
-* My research interests include machine learning and computer vision, particularly in generative model and unsupervised learning. 
+* My research interests include machine learning and computer vision, particularly in deep generative modelling and image/video synthesis. I also use it to facilitate low-level vision.
 
 News
 ======
