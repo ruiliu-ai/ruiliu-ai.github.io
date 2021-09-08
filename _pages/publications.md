@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting](https://arxiv.org/abs/2109.02974)</b> [[code](https://github.com/ruiliu-ai/FuseFormer)] <br>
+<b>Rui Liu</b>, Hanming Deng, Yangyi Huang, Xiaoyu Shi, Lewei Lu, Wenxiu Sun, Xiaogang Wang, Jifeng Dai, Hongsheng Li <br>
+<i>International Conference on Computer Vision</i> (<b>ICCV 2021</b>).
+
 <b>[DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)</b> [[code](https://github.com/ruiliu-ai/DivCo)] <br>
 <b>Rui Liu</b>, Yixiao Ge, Ching Lam Choi, Xiaogang Wang, Hongsheng Li. <br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2021</b>).
@@ -17,7 +21,7 @@ author_profile: true
 <b>Rui Liu</b>, Yu Liu, Xinyu Gong, Xiaogang Wang, Hongsheng Li. <br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2019</b>).
 
-<b>HiABP: Hierarchical Initialized ABP for Unsupervised Representation Learning</b> <br>
+<b>[HiABP: Hierarchical Initialized ABP for Unsupervised Representation Learning](http://bzhou.ie.cuhk.edu.hk/publication/AAAI2021_ABP.pdf)</b> <br>
 Jiankai Sun, <b>Rui Liu</b>, Bolei Zhou. <br>
 <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2021</b>).
 
