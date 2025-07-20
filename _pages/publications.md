@@ -31,9 +31,4 @@ Han Liu, Xiangnan He, Fuli Feng, Liqiang Nie, <b>Rui Liu</b>, Hanwang Zhang. <br
 
 <b>[Discrete content-aware matrix factorization](https://dl.acm.org/citation.cfm?id=3098008)</b> [[poster](http://ruiliu-ai.github.io/files/DCMF_Poster.pdf)] <br>
 Defu Lian, <b>Rui Liu</b>, Yong Ge, Kai Zheng, Xing Xie, Longbing Cao. <br>
-<i>Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i> (<b>SIGKDD 2017</b>, <b>Oral</b>).
-
-<b>[Unsupervised Cross-modal Hashing with Soft Constraint](https://link.springer.com/chapter/10.1007/978-3-319-77383-4_74)</b> <br>
-Yuxuan Zhou, Yaoxian Li, <b>Rui Liu</b>, Lingyun Hao, Yuanliang Sun. <br>
-<i>18th Pacific-Rim Conference on Multimedia</i> (<b>PCM 2017</b>).
-
+<i>Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i> (<b>SIGKDD 2017</b>).
