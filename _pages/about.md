@@ -25,10 +25,15 @@ News
 Visitors
 ======
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YOUR_CLUSTRMAPS_ID&cl=ffffff&w=a"></script>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ruiliu-ai.ruiliu-ai.github.io)
 
-<!-- 或者用其他访客统计服务，如: -->
-<!-- <a href="https://info.flagcounter.com/XXXX"><img src="https://s01.flagcounter.com/count/XXXX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
+<!-- 
+To use ClustrMaps (world map visualization):
+1. Visit https://clustrmaps.com/
+2. Enter your website URL: https://ruiliu-ai.github.io/
+3. Copy the generated script code
+4. Replace the visitor badge above with your ClustrMaps code
 
-<!-- 或者简单的 GitHub 风格访客徽章: -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ruiliu-ai.ruiliu-ai.github.io) -->
+Example ClustrMaps code:
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YOUR_ID&cl=ffffff&w=a"></script>
+-->
