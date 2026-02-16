@@ -25,4 +25,15 @@ News
 Visitors
 ======
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ih1UsGYuYz7Ajj0V38GXlzJ0vpRAUg1BFYcK06dBM_I"></script>
+<!-- ClustrMaps: 只显示地图，隐藏统计数字 -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ih1UsGYuYz7Ajj0V38GXlzJ0vpRAUg1BFYcK06dBM_I&cl=ffffff&w=350&h=200&a=0&co=0&cm=0&tl=0&td=0"></script>
+
+<style>
+  /* 隐藏 ClustrMaps 的统计信息 */
+  #clustrmaps + div,
+  #clustrmaps ~ div,
+  .clustrmaps-counter,
+  .clustrmaps-stats {
+    display: none !important;
+  }
+</style>
