@@ -10,6 +10,6 @@ citation: 'Xijia Tao, Yihua Teng, Xinxing Su, Xinyu Fu, Jihao Wu, Chaofan Tao, Z
 ---
 We introduce Mmsearch-plus, a benchmark for provenance-aware search in multimodal browsing agents.
 
-[Paper](https://arxiv.org/abs/2508.21475)
+[Paper](https://arxiv.org/abs/2508.21475) | [Project Page](https://mmsearch-plus.github.io)
 
 Recommended citation: Xijia Tao, Yihua Teng, Xinxing Su, Xinyu Fu, Jihao Wu, Chaofan Tao, Ziru Liu, Haoli Bai, **Rui Liu**, Lingpeng Kong (2026). "Mmsearch-plus: Benchmarking Provenance-aware Search for Multimodal Browsing Agents." *ICLR 2026*.
