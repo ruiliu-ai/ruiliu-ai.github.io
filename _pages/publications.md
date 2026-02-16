@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 <b>[Pusa v1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation](https://arxiv.org/abs/2507.16116)</b> [[code](https://github.com/Yaofang-Liu/Pusa-VidGen/)] <br>
-Yaofang Liu, Yumeng Ren, Aitor Artola, Yuxuan Hu, Xiaodong Cun, Xiaotong Zhao, Alan Zhao, Raymond H. Chan, Suiyun Zhang, <b>Rui Liu (Corresponding Author)</b>, Dandan Tu, Jean-Michel Morel. <br>
+Yaofang Liu, Yumeng Ren, Aitor Artola, Yuxuan Hu, Xiaodong Cun, Xiaotong Zhao, Alan Zhao, Raymond H. Chan, Suiyun Zhang, <b>Rui Liu<sup><big>*</big></sup></b>, Dandan Tu, Jean-Michel Morel. <br>
 <i>International Conference on Learning Representations</i> (<b>ICLR 2026</b>).
 
 <b>[Mmsearch-plus: Benchmarking Provenance-aware Search for Multimodal Browsing Agents](https://arxiv.org/abs/2508.21475)</b> <br>
-Xijia Tao, Yihua Teng, Xinxing Su, Xinyu Fu, Jihao Wu, Chaofan Tao, Ziru Liu, Haoli Bai, <b>Rui Liu (Corresponding Author)</b>, Lingpeng Kong. <br>
+Xijia Tao, Yihua Teng, Xinxing Su, Xinyu Fu, Jihao Wu, Chaofan Tao, Ziru Liu, Haoli Bai, <b>Rui Liu<sup><big>*</big></sup></b>, Lingpeng Kong. <br>
 <i>International Conference on Learning Representations</i> (<b>ICLR 2026</b>).
 
 <b>[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](https://arxiv.org/abs/2509.05657)</b> <br>
-Yuxuan Hu, Jihao Liu, Ke Wang, Jinliang Zhen, Weikang Shi, Manyuan Zhang, Qi Dou, <b>Rui Liu (Corresponding Author)</b>, Aojun Zhou, Hongsheng Li. <br>
+Yuxuan Hu, Jihao Liu, Ke Wang, Jinliang Zhen, Weikang Shi, Manyuan Zhang, Qi Dou, <b>Rui Liu<sup><big>*</big></sup></b>, Aojun Zhou, Hongsheng Li. <br>
 <i>Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP 2025</b>).
 
 <b>[FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting](https://arxiv.org/abs/2109.02974)</b> [[code](https://github.com/ruiliu-ai/FuseFormer)] <br>
@@ -44,3 +44,6 @@ Han Liu, Xiangnan He, Fuli Feng, Liqiang Nie, <b>Rui Liu</b>, Hanwang Zhang. <br
 <b>[Discrete content-aware matrix factorization](https://dl.acm.org/citation.cfm?id=3098008)</b> [[poster](http://ruiliu-ai.github.io/files/DCMF_Poster.pdf)] <br>
 Defu Lian, <b>Rui Liu</b>, Yong Ge, Kai Zheng, Xing Xie, Longbing Cao. <br>
 <i>Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i> (<b>SIGKDD 2017</b>).
+
+<br>
+<sup><big>*</big></sup> Corresponding author
