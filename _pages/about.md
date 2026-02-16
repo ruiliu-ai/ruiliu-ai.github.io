@@ -25,15 +25,4 @@ News
 Visitors
 ======
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ruiliu-ai.ruiliu-ai.github.io)
-
-<!-- 
-To use ClustrMaps (world map visualization):
-1. Visit https://clustrmaps.com/
-2. Enter your website URL: https://ruiliu-ai.github.io/
-3. Copy the generated script code
-4. Replace the visitor badge above with your ClustrMaps code
-
-Example ClustrMaps code:
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YOUR_ID&cl=ffffff&w=a"></script>
--->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ih1UsGYuYz7Ajj0V38GXlzJ0vpRAUg1BFYcK06dBM_I"></script>
