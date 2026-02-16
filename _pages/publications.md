@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 <b>[Pusa v1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation](https://arxiv.org/abs/2507.16116)</b> [[code](https://github.com/Yaofang-Liu/Pusa-VidGen/)] <br>
-Yaofang Liu, Yao Ren, Aitor Artola, Yuying Huang, Xiao Cun, Xuanchi Zhao, Ao Zhao, R.H. Chan, Suiyun Zhang, <b>Rui Liu</b>, et al. <br>
+Yaofang Liu, Yumeng Ren, Aitor Artola, Yuxuan Hu, Xiaodong Cun, Xiaotong Zhao, Alan Zhao, Raymond H. Chan, Suiyun Zhang, <b>Rui Liu</b>, Dandan Tu, Jean-Michel Morel. <br>
 <i>International Conference on Learning Representations</i> (<b>ICLR 2026</b>).
 
 <b>[Mmsearch-plus: Benchmarking Provenance-aware Search for Multimodal Browsing Agents](https://arxiv.org/abs/2508.21475)</b> <br>
-Xiaotong Tao, Yuting Teng, Xiaokang Su, Xiangming Fu, Jiayu Wu, Chen Tao, Zhiyuan Liu, Hu Bai, <b>Rui Liu</b>, Lingpeng Kong. <br>
+Xijia Tao, Yihua Teng, Xinxing Su, Xinyu Fu, Jihao Wu, Chaofan Tao, Ziru Liu, Haoli Bai, <b>Rui Liu</b>, Lingpeng Kong. <br>
 <i>International Conference on Learning Representations</i> (<b>ICLR 2026</b>).
 
-<b>[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](https://arxiv.org/abs/2505.02471)</b> <br>
-Yang Hu, Jiayao Liu, Kai Wang, Jiaxin Zheng, Weikang Shi, Mingyan Zhang, Qi Dou, <b>Rui Liu</b>, Aojun Zhou, Hongsheng Li. <br>
+<b>[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](https://arxiv.org/abs/2509.05657)</b> <br>
+Yuxuan Hu, Jihao Liu, Ke Wang, Jinliang Zhen, Weikang Shi, Manyuan Zhang, Qi Dou, <b>Rui Liu</b>, Aojun Zhou, Hongsheng Li. <br>
 <i>Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP 2025</b>).
 
 <b>[FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting](https://arxiv.org/abs/2109.02974)</b> [[code](https://github.com/ruiliu-ai/FuseFormer)] <br>
