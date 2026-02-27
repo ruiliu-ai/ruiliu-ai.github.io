@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](https://arxiv.org/abs/2502.XXXXX)</b> <br>
+<b>[VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](https://arxiv.org/abs/2512.19243)</b> <br>
 Meng Chu, Senqiao Yang, Haoxuan Che, Suiyun Zhang, Xichen Zhang, Shaozuo Yu, Haokun Gui, Zhefan Rao, Dandan Tu, <b>Rui Liu<sup><big>*</big></sup></b>, Jiaya Jia. <br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2026</b>).
 
-<b>[AEGIS: Exploring the Limit of World Knowledge Capabilities for Unified Mulitmodal Models](https://arxiv.org/abs/2502.XXXXX)</b> <br>
+<b>[AEGIS: Exploring the Limit of World Knowledge Capabilities for Unified Mulitmodal Models](https://arxiv.org/abs/2601.00561)</b> <br>
 Jintao Lin, Bowen Dong, Weikang Shi, Chenyang Lei, Suiyun Zhang, <b>Rui Liu<sup><big>*</big></sup></b>, Xihui Liu. <br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2026</b>).
 
-<b>[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2502.XXXXX)</b> <br>
+<b>[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112)</b> <br>
 Dongzhi Jiang, Renrui Zhang, Haodong Li, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye, Rongyao Fang, Weijia Li, <b>Rui Liu<sup><big>*</big></sup></b>, Hongsheng Li. <br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2026</b>).
 
