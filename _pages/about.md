@@ -14,7 +14,9 @@ redirect_from:
 
 News
 ======
+* [Feb., 2026] Three papers accepted by **CVPR 2026**.
 * [Jan., 2026] Two papers accepted by **ICLR 2026**.
+* [Oct., 2025] Check out our new work **[MathCanvas](https://mathcanvas.github.io/)**, the first unified multi-model that enables thinking while drawing auxiliary lines!
 * [Aug., 2025] One paper accepted by **EMNLP 2025**.
 * [July, 2025] Released a novel reinforcement learning algorithm [GHPO](https://github.com/hkgc-1/GHPO) for LLM post-training. 
 * [Apr., 2025] Released a SOTA level Image-to-Video model [Pusa](https://github.com/Yaofang-Liu/Pusa-VidGen/). 

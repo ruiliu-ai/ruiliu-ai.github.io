@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](https://arxiv.org/abs/2502.XXXXX)</b> <br>
+Meng Chu, Senqiao Yang, Haoxuan Che, Suiyun Zhang, Xichen Zhang, Shaozuo Yu, Haokun Gui, Zhefan Rao, Dandan Tu, <b>Rui Liu<sup><big>*</big></sup></b>, Jiaya Jia. <br>
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2026</b>).
+
+<b>[AEGIS: Exploring the Limit of World Knowledge Capabilities for Unified Mulitmodal Models](https://arxiv.org/abs/2502.XXXXX)</b> <br>
+Jintao Lin, Bowen Dong, Weikang Shi, Chenyang Lei, Suiyun Zhang, <b>Rui Liu<sup><big>*</big></sup></b>, Xihui Liu. <br>
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2026</b>).
+
+<b>[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2502.XXXXX)</b> <br>
+Dongzhi Jiang, Renrui Zhang, Haodong Li, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye, Rongyao Fang, Weijia Li, <b>Rui Liu<sup><big>*</big></sup></b>, Hongsheng Li. <br>
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2026</b>).
+
 <b>[Pusa v1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation](https://arxiv.org/abs/2507.16116)</b> [[project page](https://yaofang-liu.github.io/Pusa_Web/)] [[code](https://github.com/Yaofang-Liu/Pusa-VidGen/)] <br>
 Yaofang Liu, Yumeng Ren, Aitor Artola, Yuxuan Hu, Xiaodong Cun, Xiaotong Zhao, Alan Zhao, Raymond H. Chan, Suiyun Zhang, <b>Rui Liu<sup><big>*</big></sup></b>, Dandan Tu, Jean-Michel Morel. <br>
 <i>International Conference on Learning Representations</i> (<b>ICLR 2026</b>).
