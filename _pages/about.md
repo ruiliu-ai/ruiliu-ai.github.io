@@ -14,8 +14,8 @@ redirect_from:
 
 News
 ======
-* [Mar., 2026] Released **CoVe**, a novel agentic post-training framework. [[Project Page](https://cove-agent.github.io)]
-* [Feb., 2026] Released **Capybara**, the first unified video generation & editing model. [[Github](https://github.com/xgen-universe/Capybara)]
+* [Mar., 2026] Released [**CoVe**](https://cove-agent.github.io), a novel agentic post-training framework.
+* [Feb., 2026] Released [**Capybara**](https://github.com/xgen-universe/Capybara), the first unified video generation & editing model.
 * [Feb., 2026] Three papers accepted by **CVPR 2026**.
 * [Jan., 2026] Two papers accepted by **ICLR 2026**.
 * [Oct., 2025] Check out our new work **[MathCanvas](https://mathcanvas.github.io/)**, the first unified multi-model that enables thinking while drawing auxiliary lines!
