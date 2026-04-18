@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning](https://mathcanvas.github.io/)</b> <br>
+Weikang Shi, Aldrich Yu, Rongyao Fang, Houxing Ren, Ke Wang, Aojun Zhou, Changyao Tian, Xinyu Fu, Yuxuan Hu, Zimu Lu, Linjiang Huang, Si Liu, <b>Rui Liu<sup><big>*</big></sup></b>, Hongsheng Li. <br>
+<i>The 64th Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL 2026</b>).
+
 <b>[VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](https://arxiv.org/abs/2512.19243)</b> [[project page](https://visiondirector.github.io/)] <br>
 Meng Chu, Senqiao Yang, Haoxuan Che, Suiyun Zhang, Xichen Zhang, Shaozuo Yu, Haokun Gui, Zhefan Rao, Dandan Tu, <b>Rui Liu<sup><big>*</big></sup></b>, Jiaya Jia. <br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR 2026</b>).
