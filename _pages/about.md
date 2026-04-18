@@ -14,6 +14,8 @@ redirect_from:
 
 News
 ======
+* [Apr., 2026] Released [**Aura**](https://aurateam2026.github.io/), a SOTA streaming video understanding framework.
+* [Apr., 2026] One paper accepted by **ACL 2026**.
 * [Mar., 2026] Released [**CoVe**](https://cove-agent.github.io), a novel agentic post-training framework.
 * [Feb., 2026] Released [**Capybara**](https://github.com/xgen-universe/Capybara), the first unified video generation & editing model.
 * [Feb., 2026] Three papers accepted by **CVPR 2026**.
