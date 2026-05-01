@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models</b> <br>
+Kecheng Chen, Ziru Liu, Xijia Tao, Hui Liu, Xinyu Fu, Suiyun Zhang, Dandan Tu, Lingpeng Kong, <b>Rui Liu</b>, Haoliang Li. <br>
+<i>International Conference on Machine Learning</i> (<b>ICML 2026</b>).
+
+<b>SpaceVista: All-Scale Visual Spatial Reasoning from mm to km</b> <br>
+Peiwen Sun, Shiqiang Lang, Dongming Wu, Yi Ding, Kaituo Feng, Huadai Liu, Zhen Ye, <b>Rui Liu</b>, Yun-Hui Liu, Jianan Wang, Xiangyu Yue. <br>
+<i>International Conference on Machine Learning</i> (<b>ICML 2026</b>).
+
+<b>PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios</b> <br>
+Xudong Lu, Huankang Guan, Yang Bo, Jinpeng Chen, Xintong Guo, Shuhan Li, Fang Liu, Peiwen Sun, Xueying Li, Wei Zhang, Xue Yang, <b>Rui Liu</b>, Hongsheng Li. <br>
+<i>International Conference on Machine Learning</i> (<b>ICML 2026</b>).
+
 <b>[MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning](https://mathcanvas.github.io/)</b> <br>
 Weikang Shi, Aldrich Yu, Rongyao Fang, Houxing Ren, Ke Wang, Aojun Zhou, Changyao Tian, Xinyu Fu, Yuxuan Hu, Zimu Lu, Linjiang Huang, Si Liu, <b>Rui Liu<sup><big>*</big></sup></b>, Hongsheng Li. <br>
 <i>The 64th Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL 2026</b>).
