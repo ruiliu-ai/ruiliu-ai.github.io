@@ -14,7 +14,9 @@ redirect_from:
 
 News
 ======
-* [May 2026] Three papers accepted by **ICML 2026**.
+* [May, 2026] Two papers accepted by **ECCV 2026**.
+* [May, 2026] Excited to see our [**Aura**](https://aurateam2026.github.io/) featured and highly regarded in the latest [**Interaction Models**](https://thinkingmachines.ai/blog/interaction-models/) released by Thinking Machines Lab!
+* [May, 2026] Three papers accepted by **ICML 2026**.
 * [Apr., 2026] Released [**Aura**](https://aurateam2026.github.io/), a SOTA streaming video understanding framework.
 * [Apr., 2026] One paper accepted by **ACL 2026**.
 * [Mar., 2026] Released [**CoVe**](https://cove-agent.github.io), a novel agentic post-training framework.

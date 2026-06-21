@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding](http://arxiv.org/abs/2606.02482)</b> <br>
+Peiwen Sun, Xudong Lu, Huadai Liu, Yang Bo, Dongming Wu, Huankang Guan, Minghong Cai, Jinpeng Chen, Xintong Guo, Shuhan Li, Fang Liu, <b>Rui Liu<sup><big>*</big></sup></b>, Xiangyu Yue. <br>
+<i>The 19th European Conference on Computer Vision</i> (<b>ECCV 2026</b>).
+
+<b>[GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video](https://ruiliu-ai.github.io/publications/)</b> <br>
+Fang Liu, Jinpeng Chen, Ke Xu, Yuhao LIU, Guan Huankang, Xudong Lu, Yang Bo, Gerhard Petrus Hancke, <b>Rui Liu<sup><big>*</big></sup></b>, Rynson W. H. Lau. <br>
+<i>The 19th European Conference on Computer Vision</i> (<b>ECCV 2026</b>).
+
 <b>[PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios](https://arxiv.org/abs/2601.22575)</b> <br>
 Xudong Lu, Huankang Guan, Yang Bo, Jinpeng Chen, Xintong Guo, Shuhan Li, Fang Liu, Peiwen Sun, Xueying Li, Wei Zhang, Xue Yang, <b>Rui Liu<sup><big>*</big></sup></b>, Hongsheng Li. <br>
 <i>International Conference on Machine Learning</i> (<b>ICML 2026</b>).
