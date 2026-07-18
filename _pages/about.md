@@ -14,6 +14,7 @@ redirect_from:
 
 News
 ======
+* [July, 2026] Released [**Boogu**](https://boogu.org/), the state-of-the-art open-sourced image generation model. 
 * [June, 2026] Two papers accepted by **ECCV 2026**.
 * [May, 2026] Excited to see our [**Aura**](https://aurateam2026.github.io/) featured and highly regarded in the latest [**Interaction Models**](https://thinkingmachines.ai/blog/interaction-models/) released by Thinking Machines Lab!
 * [May, 2026] Three papers accepted by **ICML 2026**.
