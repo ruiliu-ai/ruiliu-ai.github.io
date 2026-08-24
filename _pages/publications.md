@@ -5,11 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[HyperGVL: Benchmarking and Improving Large Vision-Language Models in Hypergraph Understanding and Reasoning](https://arxiv.org/abs/2604.15648)</b> <br>
+Yanbin Wei, Chun Kang, Siwei Li, Haoxuan Che, Yang Chen, Hua Liu, Jian Liu, Zhuang Liu, Can Ouyang, Fei Xing, Lei Sha, <b>Rui Liu<sup><big>*</big></sup></b>, Yu Zhang, James Kwok. <br>
+<i>The 2026 Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP 2026</b>).
+
+<b>[UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion](https://arxiv.org/abs/2605.31530)</b> <br>
+Zhaoqing Li, Haoning Xu, Jingran Su, Yaofang Liu, Zhefan Rao, Huimeng Wang, Jiajun Deng, Tianzi Wang, Zengrui Jin, <b>Rui Liu<sup><big>*</big></sup></b>, Haoxuan Che, Xunying Liu. <br>
+<i>The 2026 Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP 2026</b>).
+
+<b>[OmniInteract: Benchmarking Real-World Streaming Interaction for Real-Time Omnimodal Assistants](https://arxiv.org/abs/2605.26485)</b> <br>
+Xudong Lu, Xueying Li, Annan Wang, Yang Bo, Jinpeng Chen, Zengliang Li, Nianzu Yang, <b>Rui Liu</b>, Xue Yang, Jingwen Hou, Hongsheng Li. <br>
+<i>The 2026 Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP 2026</b>).
+
+<b>[SAP: State-Guided Data Synthesis with Argument Provenance for Multi-Turn Tool Use](https://ruiliu-ai.github.io/publications/)</b> <br>
+Zichen Tian, Jinpeng Chen, Cheng Gong, Suiyun Zhang, <b>Rui Liu<sup><big>*</big></sup></b>. <br>
+<i>The 2026 Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP 2026 Findings</b>).
+
+<b>[VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization](https://arxiv.org/abs/2607.19830)</b> <br>
+Yanbin Wei, Yang Chen, Renling Gan, Ziru Liu, Xinyu Fu, Chun Kang, Ning Lu, <b>Rui Liu<sup><big>*</big></sup></b>, Yu Zhang, James Kwok. <br>
+<i>The 2026 Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP 2026 Findings</b>).
+
 <b>[X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding](http://arxiv.org/abs/2606.02482)</b> <br>
 Peiwen Sun, Xudong Lu, Huadai Liu, Yang Bo, Dongming Wu, Huankang Guan, Minghong Cai, Jinpeng Chen, Xintong Guo, Shuhan Li, Fang Liu, <b>Rui Liu<sup><big>*</big></sup></b>, Xiangyu Yue. <br>
 <i>The 19th European Conference on Computer Vision</i> (<b>ECCV 2026</b>).
 
-<b>[GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video](https://ruiliu-ai.github.io/publications/)</b> <br>
+<b>[GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video](https://arxiv.org/abs/2607.02991)</b> <br>
 Fang Liu, Jinpeng Chen, Ke Xu, Yuhao LIU, Guan Huankang, Xudong Lu, Yang Bo, Gerhard Petrus Hancke, <b>Rui Liu<sup><big>*</big></sup></b>, Rynson W. H. Lau. <br>
 <i>The 19th European Conference on Computer Vision</i> (<b>ECCV 2026</b>).
 

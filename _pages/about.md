@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am the founding director of [Celia](https://consumer.huawei.com/cn/mobileservices/celia/) Large Model Application Lab @[HKRC](https://hk.linkedin.com/company/huawei-hong-kong-research-center-hkrc) where I lead a research group of 30+ excellent researchers focusing on Multi-modal (Includes both vision understanding and generation) and AI Agent. 
+* I am the founding director of [Celia](https://consumer.huawei.com/cn/mobileservices/celia/) Large Model Application Lab @[HKRC](https://hk.linkedin.com/company/huawei-hong-kong-research-center-hkrc), leading a team of 50+ talented researchers and engineers. Our mission bridges cutting-edge AI research with real-world smart-device applications, spanning Large Language Models (LLMs), multimodal intelligence (vision, audio, omni, etc.), AI agents, and embodied AI. 
 * Before that, I was a senior researcher at SenseTime Group where I investigated on-device multi-modal models including vision language models (VLMs) and diffusion models (DMs). 
 * I hold a PhD from [MMLab](https://mmlab.ie.cuhk.edu.hk/), CUHK, supervised by [Prof. Xiaogang Wang](https://www.ee.cuhk.edu.hk/~xgwang/) and [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). 
 
