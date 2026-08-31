@@ -15,20 +15,18 @@ redirect_from:
 News
 ======
 * [Aug., 2026] Five papers accepted by **EMNLP 2026** (3 main conference and 2 findings).
-* [July, 2026] Released [**Boogu**](https://boogu.org/), the state-ossf-the-art open-sourced image generation model. 
+* [July, 2026] Released [**Boogu**](https://boogu.org/), the state-of-the-art open-sourced image generation model. 
 * [June, 2026] Two papers accepted by **ECCV 2026**.
+* [June, 2026] Released [**UNISON**](https://github.com/lizhaoqing/unison/), a unified latent diffusion framework that integrates speech synthesis, sound generation and audio editing.
 * [May, 2026] Excited to see our [**Aura**](https://aurateam2026.github.io/) featured and highly regarded in the latest [**Interaction Models**](https://thinkingmachines.ai/blog/interaction-models/) released by Thinking Machines Lab!
 * [May, 2026] Three papers accepted by **ICML 2026**.
 * [Apr., 2026] Released [**Aura**](https://aurateam2026.github.io/), a SOTA streaming video understanding framework.
 * [Apr., 2026] One paper accepted by **ACL 2026**.
-* [Mar., 2026] Released [**CoVe**](https://cove-agent.github.io), a novel agentic post-training framework.
 * [Feb., 2026] Released [**Capybara**](https://github.com/xgen-universe/Capybara), the first unified video generation & editing model.
 * [Feb., 2026] Three papers accepted by **CVPR 2026**.
 * [Jan., 2026] Two papers accepted by **ICLR 2026**.
 * [Oct., 2025] Check out our new work **[MathCanvas](https://mathcanvas.github.io/)**, the first unified multi-model that enables thinking while drawing auxiliary lines!
 * [Aug., 2025] One paper accepted by **EMNLP 2025**.
-* [July, 2025] Released a novel reinforcement learning algorithm [GHPO](https://github.com/hkgc-1/GHPO) for LLM post-training. 
-* [Apr., 2025] Released a SOTA level Image-to-Video model [Pusa](https://github.com/Yaofang-Liu/Pusa-VidGen/). 
 * [Sep., 2024] Joined Huawei Hong Kong Research Center as [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html). 
 * [July, 2022] Joined Sensetime as senior researcher. 
 * [June, 2022] Graduated from [MMLab](https://mmlab.ie.cuhk.edu.hk/), CUHK. 
